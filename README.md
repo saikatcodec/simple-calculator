@@ -1,12 +1,20 @@
-# React + Vite
+# About The Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Simple Calculator is a web application with enhanced features including normal operations, operation history tracking, and the ability to restore previous operations to the input. It's a project that demonstrates simple functionality while incorporating deeper programming concepts.
 
-Currently, two official plugins are available:
+> [!WARNING]
+> Please ignore the frontend design - this project focuses on functionality over visual presentation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
 
-## Expanding the ESLint configuration
+To run the application properly, you'll need to have Node.js, npm, and Yarn installed on your system.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+After cloning the repository, follow these steps:
+
+### `yarn install`
+
+Use this command to install all required dependencies.
+
+### `yarn dev`
+
+Run this command to start the development server.
